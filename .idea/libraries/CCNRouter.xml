@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="CCNRouter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CCNRouter/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNRouter/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNRouter/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNRouter/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNRouter/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNRouter/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

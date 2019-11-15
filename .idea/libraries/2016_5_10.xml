@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="2016.5.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/json-rpc-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-jena-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/org.apache.felix.webconsole-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="CCNController">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CCNController/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNController/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNController/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNController/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNController/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CCNController/commons-lang-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
